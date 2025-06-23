@@ -48,7 +48,7 @@ I build smart solutions that blend data, web technologies, and artificial intell
 
 ### 📈 GitHub Stats
 
-![Ibrahima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ibrahima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&theme=radical)
 
 ---
 
