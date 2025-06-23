@@ -75,9 +75,9 @@ Tech: Flutter · Node.js · PostgreSQL · Blockchain
 
 ## 📫 Let’s Connect
 
-- 🌐 Website: [dsignbymak.com](load....)  
+- 🌐 Website: [loading...](load....)  
 - 💼 LinkedIn: [linkedin.com/in/ibrahimasorysane](https://www.linkedin.com/in/ibrahima-sory-sane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
-- 📧 Email: ibrahimasorysane.dev@gmail.com
+- 📧 Email: ibrahimasorysane986@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tamact&label=Visitors&style=flat-square&color=blue" alt="Visitor badge"/>
