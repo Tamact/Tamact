@@ -1,63 +1,92 @@
-# 👋 Hi, I'm Ibrahima Sory Sané
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Tamact/Tamact/blob/main/assets/banner.png" alt="Banner" style="width:100%;" />
+</p>
 
-## 🚀 Fullstack Developer | AI Enthusiast | Quantum Explorer  
-I build smart solutions that blend data, web technologies, and artificial intelligence — with a growing passion for quantum computing.
+<h1 align="center">Hi, I'm Ibrahima Sory Sané 👋</h1>
 
----
-
-### 🧰 Tech Stack
-
-- 💻 **Languages**: Python, JavaScript (TypeScript), Dart, SQL
-- 🌐 **Frameworks & Libraries**: FastAPI, React, Streamlit, Flutter, Node.js  
-- 🧠 **AI/ML**: Transformers, LangChain, SentenceTransformers, Qdrant, OpenAI 
-- ⚛️ **Quantum Programming**: Qiskit, PennyLane, Cirq  
-- 🗄️ **Databases**: PostgreSQL, MongoDB, Redis, Qdrant, 
-- ⚙️ **DevOps & Tools**: Git, Docker, GitHub Actions, CI/CD, Linux  
-- 🧪 **Testing & Quality**: Pytest, Swagger, Postman, Prettier, Black
+<p align="center">
+  <b>Fullstack Developer | AI Enthusiast | Quantum Explorer ⚛️</b><br>
+  Building intelligent systems at the intersection of data, web, and science.
+</p>
 
 ---
 
-### 🌟 Featured Projects
+## 🧰 Tech Stack & Tools
 
-- 🧠 **UjuzAI**  
-  > An intelligent recruitment platform that automates CV screening using AI.  
-  Stack: React, Qdrant, PostgreSQL, SentenceTransformers, FastAPI 
-  → *Processed 2,000+ CVs for 20+ positions*
-
-- ♻️ **Ecoprime**  
-  > A gamified recycling app promoting eco-responsibility across Senegal.  
-  Stack: Flutter, Node.js, PostgreSQL, Blockchain
-
-- 🔐 **AuthChainLib** *(WIP)*  
-  > A decentralized authentication library built for Flutter using blockchain and mnemonic-based wallet generation.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-### 🔬 Quantum Exploration
+## 🧠 Featured Projects
 
-- 🧪 **Learning Tracks**:  
-  - [x] IBM Qiskit Foundations  
-  - [x] Quantum Machine Learning with PennyLane  
+### 🧠 UjuzAI  
+> AI-powered recruitment tool for CV screening  
+Tech: Streamlit · Qdrant · PostgreSQL · Transformers
+
+### ♻️ Ecoprime  
+> Eco-responsible recycling platform with reward system  
+Tech: Flutter · Node.js · PostgreSQL · Blockchain
+
+### 🔐 AuthChainLib *(WIP)*  
+> Decentralized authentication library for Flutter using blockchain & mnemonics
+
+---
+
+## ⚛️ Quantum Exploration
+
+- 🔭 **Learning**:
+  - [x] Qiskit Fundamentals
+  - [x] PennyLane for QML
   - [ ] Variational Quantum Circuits (Cirq WIP)
-
-- ⚛️ **Mini Projects**:  
-  - Quantum XOR gate classifier  
-  - Quantum-enhanced k-Means (research phase)
-
----
-
-### 📈 GitHub Stats
-
-![Ibrahima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&theme=radical)
+- 🧪 **Experiments**:
+  - Quantum XOR classifier
+  - Quantum-enhanced clustering
 
 ---
 
-### 📬 Get in Touch
+## 📈 GitHub Stats
 
-- 🌐 Website: [loading...)  
-- 💼 LinkedIn: [linkedin.com/in/ibrahimasorysane]([https://www.linkedin.com/in/ibrahimasorysane](https://www.linkedin.com/in/ibrahima-sory-sane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))  
-- 📧 Email: ibrahimasorysane986@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&count_private=true&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamact&layout=compact&theme=radical" width="49%">
+</p>
 
 ---
 
-> “Build with passion. Solve with purpose. Explore beyond limits.”
+## 💡 A Bit More About Me
+
+- 🌍 Based in Senegal  
+- 📚 Currently exploring Quantum Programming & Multimodal AI  
+- 🧠 I love solving real-world problems with clean, scalable code  
+- 🎯 Side-brand: [IBRAHIMA – Creative Digital & Branding](load...)
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Website: [dsignbymak.com](load....)  
+- 💼 LinkedIn: [linkedin.com/in/ibrahimasorysane](https://www.linkedin.com/in/ibrahima-sory-sane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
+- 📧 Email: ibrahimasorysane.dev@gmail.com
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tamact&label=Visitors&style=flat-square&color=blue" alt="Visitor badge"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="code animation" />
+</p>
+
+<p align="center"><b>“Build with passion. Solve with purpose. Explore beyond limits.”</b></p>
