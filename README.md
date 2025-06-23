@@ -32,7 +32,7 @@
 
 ### 🧠 UjuzAI  
 > AI-powered recruitment tool for CV screening  
-Tech: Streamlit · Qdrant · PostgreSQL · Transformers
+Tech: React · Qdrant · PostgreSQL · Transformers, FastAPI
 
 ### ♻️ Ecoprime  
 > Eco-responsible recycling platform with reward system  
