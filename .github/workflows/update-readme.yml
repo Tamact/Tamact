@@ -2,14 +2,14 @@ name: Update GitHub Stats in README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Tous les jours à minuit UTC
-  workflow_dispatch:       # Exécution manuelle possible
+    - cron: '0 0 * * *'  # Exécution quotidienne à minuit UTC
+  workflow_dispatch:       # Permet un lancement manuel depuis GitHub
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # Autorise le push
+      contents: write   # Nécessaire pour pousser les fichiers modifiés
 
     steps:
       - name: Checkout repository
@@ -25,8 +25,9 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/Tamact/Tamact.git
+          git pull --rebase origin main
           git add stats.svg langs.svg
-          git commit -m "📊 Update GitHub Stats (auto)" || echo "No changes to commit"
+          git commit -m "📊 Update GitHub Stats (auto)" || echo "✅ Nothing to commit"
           git push origin HEAD:main
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
