@@ -3,7 +3,7 @@ name: Update GitHub Stats in README
 on:
   schedule:
     - cron: '0 0 * * *'  # Tous les jours à minuit UTC
-  workflow_dispatch:       # Permet de l'exécuter manuellement
+  workflow_dispatch:       # Permet une exécution manuelle
 
 jobs:
   update-readme:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # 🔁 clone complet pour éviter les erreurs de push
+          fetch-depth: 0  # Clone complet pour gérer git pull
 
       - name: Download GitHub Stats
         run: |
@@ -27,7 +27,11 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/Tamact/Tamact.git
+
+          git stash push -m "temp changes"
           git pull --rebase origin main
+          git stash pop || echo "No stash to apply"
+
           git add stats.svg langs.svg
           git commit -m "📊 Update GitHub Stats (auto)" || echo "✅ Nothing to commit"
           git push origin HEAD:main
