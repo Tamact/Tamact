@@ -2,18 +2,20 @@ name: Update GitHub Stats in README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Exécution quotidienne à minuit UTC
-  workflow_dispatch:       # Permet un lancement manuel depuis GitHub
+    - cron: '0 0 * * *'  # Tous les jours à minuit UTC
+  workflow_dispatch:       # Permet de l'exécuter manuellement
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # Nécessaire pour pousser les fichiers modifiés
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 🔁 clone complet pour éviter les erreurs de push
 
       - name: Download GitHub Stats
         run: |
