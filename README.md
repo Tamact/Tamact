@@ -58,8 +58,8 @@ Tech: Flutter · Node.js · PostgreSQL · Blockchain
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&count_private=true&theme=radical" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamact&layout=compact&theme=radical" width="49%">
+  <img src="./stats.svg" width="49%" />
+  <img src="./langs.svg" width="49%" />
 </p>
 
 ---
