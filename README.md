@@ -62,10 +62,6 @@ Tech: Flutter · Node.js · PostgreSQL · Blockchain
   <img src="./langs.svg" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-🚀%20324-blue?style=for-the-badge" />
-</p>
-
 
 ## 💡 A Bit More About Me
 
