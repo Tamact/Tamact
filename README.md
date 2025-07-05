@@ -27,7 +27,7 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>👨‍💻 À propos de moi</h3>
+      <h3>👨‍💻 À propos de moi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
       <ul>
         <li>🌍 Basé au <b>Sénégal</b>.</li>
         <li>🧠 Actuellement en pleine exploration de la <b>programmation quantique</b> et de l'<b>IA multimodale</b>.</li>
@@ -54,7 +54,7 @@
 
 ---
 
-### 🚀 Projets en vedette
+### 🚀 Projets en vedette <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30">
 
 <table>
   <tr valign="top">
@@ -96,8 +96,9 @@
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="./stats.svg" width="48%" />
-  <img src="./langs.svg" width="48%" />
+  <img src="https://img.shields.io/badge/Total%20Commits-320-blue?style=for-the-badge&logo=github" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-28-green?style=for-the-badge&logo=github" alt="Pull Requests"/>
+  <img src="https://img.shields.io/badge/Contributions-2024-yellow?style=for-the-badge&logo=github" alt="Contributions this year"/>
 </p>
 
 <div align="center">
