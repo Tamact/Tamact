@@ -74,7 +74,7 @@ Tech: Flutter · Node.js · PostgreSQL · Blockchain
 
 ## 📫 Let’s Connect
 
-- 🌐 Website: [loading...](load....)  
+- 🌐 Website: (https://ibrahimasane.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/ibrahimasorysane](https://www.linkedin.com/in/ibrahima-sory-sane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
 - 📧 Email: ibrahimasorysane986@gmail.com
 
