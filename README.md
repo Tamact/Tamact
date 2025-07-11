@@ -91,7 +91,7 @@
   - Classifieur XOR quantique
   - Clustering assisté par algorithmes quantiques
 
----
+----
 
 ### 📊 Mes Statistiques GitHub
 
