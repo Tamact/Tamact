@@ -1,115 +1,284 @@
-<p align="center">
-  <img src="https://github.com/Tamact/Tamact/blob/main/assets/banner.png" alt="Banner" style="width:100%;" />
-</p>
+# <div align="center">![Matrix Rain](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)</div>
 
 <div align="center">
-  <h1>Salut, je suis Ibrahima Sory Sané 👋</h1>
-  <p>
-    <b>Développeur Fullstack | Passionné d'IA | Explorateur Quantique ⚛️</b><br>
-    Je conçois des systèmes intelligents à l'intersection des données, du web et de la science.
-  </p>
   
-  <p>
-    <a href="https://www.linkedin.com/in/ibrahima-sory-sane" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:ibrahimasorysane986@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://ibrahimasane.vercel.app/">
-      <img src="https://img.shields.io/badge/Website-4B4B4B?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-    </a>
-  </p>
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║  ██╗██████╗ ██████╗  █████╗ ██╗  ██╗██╗███╗   ███╗ █████╗                  ║
+║  ██║██╔══██╗██╔══██╗██╔══██╗██║  ██║██║████╗ ████║██╔══██╗                 ║
+║  ██║██████╔╝██████╔╝███████║███████║██║██╔████╔██║███████║                 ║
+║  ██║██╔══██╗██╔══██╗██╔══██║██╔══██║██║██║╚██╔╝██║██╔══██║                 ║
+║  ██║██████╔╝██║  ██║██║  ██║██║  ██║██║██║ ╚═╝ ██║██║  ██║                 ║
+║  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝                 ║
+║                                                                               ║
+║                     ███████╗ █████╗ ███╗   ██╗███████╗                      ║
+║                     ██╔════╝██╔══██╗████╗  ██║██╔════╝                      ║
+║                     ███████╗███████║██╔██╗ ██║█████╗                        ║
+║                     ╚════██║██╔══██║██║╚██╗██║██╔══╝                        ║
+║                     ███████║██║  ██║██║ ╚████║███████╗                      ║
+║                     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝                      ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Développeur+Fullstack+%7C+Architecte+IA+%7C+Explorateur+Quantique;Building+The+Future+With+Code+%26+Consciousness" alt="Typing SVG" />
+
+[![Matrix](https://img.shields.io/badge/Enter_The_Matrix-00FF41?style=for-the-badge&logo=matrix&logoColor=black)](https://ibrahimasane.vercel.app/)
+[![Status](https://img.shields.io/badge/Status-Online-00FF41?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/Tamact)
+[![Quantum](https://img.shields.io/badge/Quantum_Ready-⚛️-00FF41?style=for-the-badge)](https://github.com/Tamact)
+
 </div>
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>👨‍💻 À propos de moi</h3>
-      <ul>
-        <li>🌍 Basé au <b>Sénégal</b>.</li>
-        <li>🧠 Actuellement en pleine exploration de la <b>programmation quantique</b> et de l'<b>IA multimodale</b>.</li>
-        <li>💡 J'aime résoudre des problèmes concrets avec du code propre, performant et scalable.</li>
-        <li>🎯 Mon side-project créatif : <b>IBRAHIMA – Creative Digital & Branding</b> <i>(Bientôt disponible)</i>.</li>
-      </ul>
-    </td>
-    <td width="35%" valign="top">
-      <h3>🧰 Compétences</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+### 🟢 SYSTEM STATUS: `CONNECTED`
+  
+```javascript
+const developer = {
+    name: "Ibrahima Sory Sané",
+    location: "Sénégal",
+    status: "Building the Matrix",
+    currentMission: "Quantum Computing & AI Integration",
+    philosophy: "There is no spoon 🥄"
+};
+```
+
+</div>
 
 ---
 
-### 🚀 Projets en vedette
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> NEURAL INTERFACE
 
 <table>
-  <tr valign="top">
-    <td width="50%">
-      <b>🧠 UjuzAI</b>
-      <blockquote>Outil de recrutement basé sur l'IA pour le screening de CV.</blockquote>
-      <p><b>Tech :</b> React · Qdrant · PostgreSQL · Transformers, FastAPI</p>
-    </td>
-    <td width="50%">
-      <b>♻️ Ecoprime</b>
-      <blockquote>Plateforme éco-responsable de recyclage avec système de récompenses.</blockquote>
-      <p><b>Tech :</b> Flutter · Node.js · PostgreSQL · Blockchain</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="50%">
-      <b>🔐 AuthChainLib</b> <small>(En cours de développement)</small>
-      <blockquote>Librairie d'authentification décentralisée pour Flutter utilisant la blockchain & les mnémoniques.</blockquote>
-    </td>
-    <td width="50%">&nbsp;</td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🧬 CORE MATRIX
+
+```python
+class MatrixDeveloper:
+    def __init__(self):
+        self.name = "Ibrahima Sory Sané"
+        self.role = "Full Stack Developer"
+        self.knowledge = ["AI", "Quantum", "Web"]
+        self.current_focus = "Quantum ML"
+        
+    def wake_up(self):
+        return "Follow the white rabbit 🐇"
+```
+
+</td>
+<td width="50%">
+
+### ⚡ POWER LEVELS
+
+![Python](https://img.shields.io/badge/Python-90%25-00FF41?style=flat-square&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-00FF41?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-80%25-00FF41?style=flat-square&logo=typescript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-85%25-00FF41?style=flat-square&logo=flutter&logoColor=black)
+![Quantum](https://img.shields.io/badge/Quantum-75%25-00FF41?style=flat-square&logo=atom&logoColor=black)
+
+</td>
+</tr>
 </table>
 
 ---
 
-### ⚛️ Mon Exploration Quantique
-
-- 🔭 **Apprentissage** :
-  - ✅ Fondamentaux de Qiskit
-  - ✅ PennyLane pour le Quantum Machine Learning
-  - ⏳ Circuits Quantiques Variationnels (Cirq)
-
-- 🧪 **Expérimentations** :
-  - Classifieur XOR quantique
-  - Clustering assisté par algorithmes quantiques
-
-----
-
-### 📊 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="./stats.svg" width="48%" />
-  <img src="./langs.svg" width="48%" />
-</p>
+## 💊 CHOOSE YOUR PILL
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tamact&label=Visiteurs&style=flat-square&color=blue" alt="Visitor badge"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔴 RED PILL
+**Deep Learning & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF41)
+![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41)
+
+</td>
+<td align="center" width="33%">
+
+### 🔵 BLUE PILL
+**Web Development**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+
+</td>
+<td align="center" width="33%">
+
+### ⚛️ QUANTUM PILL
+**Next Level**
+
+![Qiskit](https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&logo=ibm&logoColor=00FF41)
+![PennyLane](https://img.shields.io/badge/PennyLane-000000?style=for-the-badge&logo=quantum&logoColor=00FF41)
+![Cirq](https://img.shields.io/badge/Cirq-000000?style=for-the-badge&logo=google&logoColor=00FF41)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="code animation" />
-</p>
+## 🎯 MISSION PROTOCOLS
 
-<p align="center">
-  <b>“Construire avec passion. Résoudre avec ambition. Explorer sans limites.”</b>
-</p>
+<details>
+<summary><b>🧠 PROJECT: UJUZAI</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></summary>
+
+```yaml
+Project: UjuzAI
+Type: AI-Powered Recruitment System
+Status: OPERATIONAL
+Tech_Stack:
+  - Frontend: React with Matrix UI
+  - Backend: FastAPI
+  - AI: Transformers, Qdrant
+  - Database: PostgreSQL
+Features:
+  - CV Screening with AI
+  - Semantic Search
+  - Automated Ranking
+```
+</details>
+
+<details>
+<summary><b>♻️ PROJECT: ECOPRIME</b> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"></summary>
+
+```yaml
+Project: Ecoprime
+Type: Eco-Responsible Platform
+Status: ACTIVE
+Tech_Stack:
+  - Mobile: Flutter
+  - Backend: Node.js
+  - Blockchain: Smart Contracts
+  - Database: PostgreSQL
+Features:
+  - Recycling Rewards System
+  - Blockchain Transactions
+  - Green Score Tracking
+```
+</details>
+
+<details>
+<summary><b>🔐 PROJECT: AUTHCHAINLIB</b> <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="30"></summary>
+
+```yaml
+Project: AuthChainLib
+Type: Decentralized Auth Library
+Status: IN_DEVELOPMENT
+Tech_Stack:
+  - Core: Flutter/Dart
+  - Security: Blockchain
+  - Auth: Mnemonic Seeds
+Progress: ████████░░ 80%
+```
+</details>
+
+---
+
+## ⚡ SYSTEM METRICS
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamact&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamact&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41)
+
+</div>
+
+---
+
+## 🌐 NETWORK CONNECTIONS
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/ibrahima-sory-sane)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:ibrahimasorysane986@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://ibrahimasane.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Tamact)
+
+</div>
+
+---
+
+## 🧬 QUANTUM EXPERIMENTS
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Classical Computing] -->|Evolution| B[Quantum Computing]
+    B --> C[Quantum ML]
+    C --> D[Quantum Supremacy]
+    D --> E[The Singularity]
+    
+    style A fill:#000,stroke:#00FF41,color:#00FF41
+    style B fill:#000,stroke:#00FF41,color:#00FF41
+    style C fill:#000,stroke:#00FF41,color:#00FF41
+    style D fill:#000,stroke:#00FF41,color:#00FF41
+    style E fill:#00FF41,stroke:#00FF41,color:#000
+```
+
+### 🔬 Current Research
+- **Quantum XOR Classifier** - `Status: Testing`
+- **Variational Quantum Circuits** - `Status: Learning`
+- **Quantum Clustering Algorithms** - `Status: Implementing`
+
+</div>
+
+---
+
+## 📡 TRANSMISSION LOG
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/Tamact/count.svg?color=00FF41)
+
+```css
+@keyframes matrix-rain {
+    0% { transform: translateY(-100%); opacity: 0; }
+    10% { opacity: 1; }
+    90% { opacity: 1; }
+    100% { transform: translateY(100%); opacity: 0; }
+}
+
+.reality { 
+    status: "There is no spoon";
+    perspective: "Infinite";
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 SYSTEM MESSAGE
+
+```
+> "The Matrix has you..."
+> "Follow the white rabbit."
+> "Knock, knock, Neo."
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
+**"Free your mind"**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
