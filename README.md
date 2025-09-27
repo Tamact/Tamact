@@ -204,17 +204,20 @@ Progress: ████████░░ 80%
 <!-- Matrix Animation Header -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px"/>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&count_private=true&include_all_commits=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamact&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamact&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamact&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&count_private=true&include_all_commits=true&langs_count=10)
 
 <!-- Matrix Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamact&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamact&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&include_all_commits=true" width="100%"/>
 
 <!-- Trophies Matrix Style -->
 <img src="https://github-profile-trophy.vercel.app/?username=Tamact&theme=matrix&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" width="100%"/>
+
+<!-- Detailed Stats -->
+![](https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true)
 
 </div>
 
