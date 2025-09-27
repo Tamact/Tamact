@@ -22,7 +22,13 @@
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+<!-- Matrix Digital Rain Banner -->
+<img src="https://i.imgur.com/nKxbD5Q.gif" width="100%" height="2px" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Développeur+Fullstack+%7C+Architecte+IA+%7C+Explorateur+Quantique;Building+The+Future+With+Code+%26+Consciousness" alt="Typing SVG" />
+
+<!-- Alternative avec animation Matrix -->
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="3px"/>
 
 [![Matrix](https://img.shields.io/badge/Enter_The_Matrix-00FF41?style=for-the-badge&logo=matrix&logoColor=black)](https://ibrahimasane.vercel.app/)
 [![Status](https://img.shields.io/badge/Status-Online-00FF41?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/Tamact)
@@ -35,6 +41,9 @@
 <div align="center">
   
 ### 🟢 SYSTEM STATUS: `CONNECTED`
+
+<!-- Matrix System Monitor -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="center"/>
   
 ```javascript
 const developer = {
@@ -45,6 +54,9 @@ const developer = {
     philosophy: "There is no spoon 🥄"
 };
 ```
+
+<!-- Matrix Code Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" height="2px"/>
 
 </div>
 
@@ -188,12 +200,21 @@ Progress: ████████░░ 80%
 ## ⚡ SYSTEM METRICS
 
 <div align="center">
+
+<!-- Matrix Animation Header -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px"/>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamact&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tamact&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamact&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41)
+
+<!-- Matrix Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamact&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41" width="100%"/>
+
+<!-- Trophies Matrix Style -->
+<img src="https://github-profile-trophy.vercel.app/?username=Tamact&theme=matrix&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" width="100%"/>
 
 </div>
 
@@ -243,7 +264,17 @@ graph TD
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/Tamact/count.svg?color=00FF41)
+<!-- Matrix Style Analytics -->
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" alt="Matrix Code Rain"/>
+
+<br/>
+
+<!-- Animated Visitor Badge Matrix Style -->
+<img src="https://img.shields.io/badge/VISITORS-00FF41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=Tamact&label=SYSTEM_ACCESS&style=for-the-badge&color=00FF41" alt="Profile Views" />
+
+<!-- Alternative Matrix Counter -->
+<img src="https://count.getloli.com/get/@Tamact?theme=matrix" alt="Matrix Counter" />
 
 ```css
 @keyframes matrix-rain {
@@ -258,6 +289,9 @@ graph TD
     perspective: "Infinite";
 }
 ```
+
+<!-- Matrix Grid Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
 
 </div>
 
